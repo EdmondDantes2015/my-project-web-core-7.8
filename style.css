@@ -81,9 +81,9 @@ a {
 }
 
 .navigation a:hover {
-  border-color: #41F6D7;
+  border-color: #41f6d7;
   background-color: white;
-  transform: scale(1.05);
+  transform: scale(1.07);
 }
 .content {
   display: flex;
@@ -92,7 +92,12 @@ a {
   padding-top: 200px;
 }
 
-footer {
-    padding-left: 10px;
-    color:  #7E7E82;
+footer strong{
+  display: flex;
+  padding-left: 10px;
+  gap: 10px;
+}
+
+.div:hover {
+  color: #7e7e82;
 }
