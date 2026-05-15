@@ -1,1 +1,1 @@
-https://github.com/EdmondDantes2015/my-project-web-core-7.8/edit/main/README.md
+https://edmonddantes2015.github.io/my-project-web-core-7.8/
